@@ -1,0 +1,14 @@
+/* #69deaf */
+body{
+    background-color: #2ed18f;
+    color: #2155d1;
+    display: flex;
+    font-size: 55px;
+}
+.main{
+    margin: auto;
+}
+.time{
+    display: flex;
+    justify-content: space-between;
+}
